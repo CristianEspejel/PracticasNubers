@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maritza\\Desktop\\Cristian_Espejel\\INNOVACCION\\Speech\\Speech.csproj": {}
+    "C:\\Users\\Maritza\\Desktop\\Cristian_Espejel\\INNOVACCION\\PracticasNubers\\Speech\\Speech.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maritza\\Desktop\\Cristian_Espejel\\INNOVACCION\\Speech\\Speech.csproj": {
+    "C:\\Users\\Maritza\\Desktop\\Cristian_Espejel\\INNOVACCION\\PracticasNubers\\Speech\\Speech.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maritza\\Desktop\\Cristian_Espejel\\INNOVACCION\\Speech\\Speech.csproj",
+        "projectUniqueName": "C:\\Users\\Maritza\\Desktop\\Cristian_Espejel\\INNOVACCION\\PracticasNubers\\Speech\\Speech.csproj",
         "projectName": "Speech",
-        "projectPath": "C:\\Users\\Maritza\\Desktop\\Cristian_Espejel\\INNOVACCION\\Speech\\Speech.csproj",
+        "projectPath": "C:\\Users\\Maritza\\Desktop\\Cristian_Espejel\\INNOVACCION\\PracticasNubers\\Speech\\Speech.csproj",
         "packagesPath": "C:\\Users\\Maritza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maritza\\Desktop\\Cristian_Espejel\\INNOVACCION\\Speech\\obj\\",
+        "outputPath": "C:\\Users\\Maritza\\Desktop\\Cristian_Espejel\\INNOVACCION\\PracticasNubers\\Speech\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Maritza\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -35,6 +35,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.CognitiveServices.Speech": {
+              "target": "Package",
+              "version": "[1.13.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

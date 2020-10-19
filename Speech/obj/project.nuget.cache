@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nWq/G2M+E7ulDeBXfKekXlFAqFryptKs9IgUetpQ53wzleJ7HtcZ7/CNKQJRCuNENox/I5P6ax5M7MNtsLnNBQ==",
+  "dgSpecHash": "Yxs2ko+QWl/TN/mENIkzTb4giI0q4HFadxSgU6ZArPETxvb8CM7P1bel0klXV8shw/iCnTVhB9b//Qu6BD902g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Maritza\\Desktop\\Cristian_Espejel\\INNOVACCION\\Speech\\Speech.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Maritza\\Desktop\\Cristian_Espejel\\INNOVACCION\\PracticasNubers\\Speech\\Speech.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maritza\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.13.0\\microsoft.cognitiveservices.speech.1.13.0.nupkg.sha512"
+  ],
   "logs": []
 }
